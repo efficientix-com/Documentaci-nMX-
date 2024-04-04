@@ -2,7 +2,7 @@
 home: true
 heroImage: /images/Logo tekiio.png
 actionText: Comenzar
-actionLink: /guia-inicio/
+actionLink: /cartaporte/
 
-footer: Tekiio Plus | Copyright 2023
+footer: Tekiio México 2024
 ---

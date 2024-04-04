@@ -1,23 +1,19 @@
 module.exports={
-    title:'Soporte DIOT',
-    description:'Documentación de soporte para DIOT',
+    title:'Documentación MX+',
+    description:'Documentación de soporte para producto MX+',
     themeConfig:{
         nav:[
             {text:'Inicio',link:'/'},
-            {text:'Guía de inicio',link:'/guia-inicio/'},
-            {text:'Documentación',link:'/documentacion/'},
+            // {text:'Preguntas Frecuentes',link:'/guia-inicio/'},
+            {text:'Carta Porte',link:'/cartaporte/'},
         ],
         sidebar:{
-            '/documentacion/':[
+            '/cartaporte/':[
                 '',
-                'diot_docs',
-                'diot_error_proveedor',
-                // 'error_consulta_status',
-                // 'errores_fechas',
-                // 'facturas',
-                // 'pagos',
-                // 'extensiones',
-                // 'error_facturaglobal',
+                'cp_direcciones',
+                'cp_items',
+                'cp_llenado',
+                
             ]
         }
     }
